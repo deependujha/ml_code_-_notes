@@ -1,0 +1,4 @@
+We don't need to take care of dummy variable trap (removing one categorical data).
+We also don't need to do feature scaling.
+We also don't need to bother about backward elimination.
+Multiple regression library in sklearn takes care of all that.
